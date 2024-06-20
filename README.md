@@ -1,0 +1,1 @@
+Federated Learning for Text Generation : We start with a RNN that generates ASCII characters, and refine it via federated learning. We also show how the final weights can be fed back to the original Keras model, allowing easy evaluation and text generation using standard tools.
